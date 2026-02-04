@@ -7,9 +7,10 @@ export default function Index() {
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
+        backgroundColor: '#000000',
       }}
     >
-      <Text>Edit app/index.tsx to edit this screen.</Text>
+      <Text style={{ color: 'white' }}>Rifqi Aldino Amin - 000000093743</Text>
     </View>
   );
 }
